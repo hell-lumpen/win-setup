@@ -38,8 +38,6 @@ $packages = @(
     "7zip",               # Archive utility
     "curl",               # Utility for URL requests
     "openssh",            # SSH for remote work
-    "postgresql",         # PostgreSQL - main database
-    "dbeaver",            # GUI for working with databases
     "powertoys",          # Microsoft PowerToys for productivity
     "microsoft-windows-terminal", # Windows Terminal for various shells
     "sparkmail",          # Spark email client
